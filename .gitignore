@@ -1,0 +1,17 @@
+# python virtual envrmnt
+.venv/
+
+# python cache directorires
+__pycache__/
+
+# compiled python files
+*.pyc
+
+# pytest cache
+.pytest_cache/
+
+# local envrmnt config.
+.env
+
+# local editor settings
+.vscode/
